@@ -1,6 +1,11 @@
-/.firebase
-/firebase.json
-node_modules
-build
-/.build-tmp
-/.netlify
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
